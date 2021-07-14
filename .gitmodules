@@ -1,0 +1,3 @@
+[submodule ".\\tip-calculator\\"]
+	path = .\\tip-calculator\\
+	url = https://github.com/nkarl/jba-mobile-tip-calculator
